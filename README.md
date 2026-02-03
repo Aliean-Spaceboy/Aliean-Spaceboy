@@ -1,6 +1,6 @@
 # 💫 About Me — Samarjit Jena
 
-Java Backend Developer with **2+ years of experience** building **secure, scalable, and high-performance backend systems** using **Java, Spring Boot, and Microservices**.  
+Java Backend Developer with building **secure, scalable, and high-performance backend systems** using **Java, Spring Boot, and Microservices**.  
 I enjoy optimizing APIs, designing clean architectures, and deploying production applications on AWS.
 
 ---
